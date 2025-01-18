@@ -12,6 +12,7 @@ bleach==6.2.0
 certifi==2024.12.14
 cffi==1.17.1
 charset-normalizer==3.4.1
+click==8.1.8
 colorama==0.4.6
 comm==0.2.2
 contourpy==1.3.1
@@ -63,6 +64,7 @@ nbconvert==7.16.5
 nbformat==5.10.4
 nest-asyncio==1.6.0
 networkx==3.4.2
+nltk==3.9.1
 notebook_shim==0.2.4
 numpy==2.0.2
 opt_einsum==3.4.0
